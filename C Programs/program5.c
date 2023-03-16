@@ -1,5 +1,7 @@
 // This is a partially implemented code snippet
-int sum(Node node)
+#include <stdio.h>
+#include <stdlib.h>
+int sum(node)
 {
     if (node == NULL)
     {
